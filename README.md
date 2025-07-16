@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hosseinmolaeibackend" alt="hosseinmolaeibackend" /></a> </p>
 
-- 🔭 I’m currently working on [Movie Website](https://github.com/hosseinmolaeibackend/Movie-Website)
+- 🔭 I’m currently working on [EnterpriseAutomationApi](https://github.com/behmaneshrad/EnterpriseAutomationApi)
 
-- 🌱 I’m currently learning **Asp.net Core, Sql Server, Asp.net Web Api and etc...**
+- 🌱 I’m currently learning **Software Architecture ,Docker ,Asp.Net Core WebApi, T-Sql and etc...**
 
 - 👯 I’m looking to collaborate on [News Website](https://github.com/hosseinmolaeibackend/News_Website)
 
 - 💬 Ask me about **.Net Framework for your website**
 
-- 📫 How to reach me **hosein.molaei3@gmail.com**
+- 📫 How to reach me **hosein.molaei3@gmail.com** and [Linkdin](https://www.linkedin.com/in/hossein-molaei-87424a232/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
